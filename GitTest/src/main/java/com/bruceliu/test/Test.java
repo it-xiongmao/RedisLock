@@ -11,5 +11,6 @@ public class Test {
         System.out.println("GIT测试");
         System.out.println("GIT测试");
         System.out.println("GIT测试");
+        System.out.println("这里添加了新的代码");
     }
 }
